@@ -1,4 +1,4 @@
-Image and video colorizer
+Image colorizer
 =========================
 
 Image and video colorizer is package for automatic image and video colorization. 
